@@ -1,0 +1,54 @@
+body {
+  background-color: steelblue;
+}
+.container {
+  background-color: white;
+  margin: 10px auto;
+  width: 350px;
+  border-radius: 10px;
+  /* height: 300px; */
+  /* padding-bottom: 400px; */
+}
+img {
+  border-radius: 10px;
+}
+.main {
+  border-radius: 50%;
+  justify-content: center;
+  margin-left: 130px;
+  margin-bottom: 10px;
+  width: 65px;
+}
+.line {
+  border-bottom: 1px solid lightgrey;
+  display: block;
+  margin-bottom: 10px;
+}
+.barn{
+  text-align: center;
+  margin: auto;
+}
+.sentence{
+    text-align: center;
+    color: grey;
+}
+.gain {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.one,
+.second,
+.third {
+    text-align: center;
+}
+
+.number{
+    font-weight: bolder;
+}
+
+.follower,
+.like,
+.photo{
+    color: grey;
+}
